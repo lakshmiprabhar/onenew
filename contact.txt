@@ -1,0 +1,16 @@
+﻿<html>
+	<head>
+	<title>CONTACT INFO</title>
+	</head>
+	<body>
+	<h1> PH:</h1>
+	<p>9585013995</p>
+<br></br>
+        <p>8894423308</p>
+<br></br>
+	<p>mail: placementcell@reddifmail.com</p>
+
+</body>
+</html>
+
+

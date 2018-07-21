@@ -1,0 +1,41 @@
+<html>
+<head><title>online shopping </title>
+<link rel="stylesheet" type="text/css" href="online.css">
+</head>
+<body>
+<h1>online shopping</h1>
+<marquee direction="right" scrollamount="30" behavior="slide">
+<div class="h"><a href="home.html">HOME</a> |
+<a href="account.html">MY ACCOUNT</a> |
+<a href="trackorder.html">TRACK ORDER</a> |
+<a href="contact.html">CONTACT</a> 
+</marquee></div>
+<img src="C:\Users\Admin\Pictures\photos\smart-phone-shopping-online-concept-your-related-icons-bursting-mobile-cell-held-hand-68268565.jpg" width="100%" height="400px">
+<table>
+<tr>
+<td><h3>HELP</h3>Track an order<br>FAQs<br>contact us<br>Brand Sitemap<br>
+Contact Us<br>
+Blog<br>
+Free Delivery Coupon T&C</div>
+<tr>
+<td><h3>POLICIES</h3></td>
+<td>
+Return Policy<br>
+Refund Policy<br>
+Shipping Policy<br>
+Privacy Policy<br>
+IPR Policy<br>
+Terms Of Use<br>
+Promotions - T&C
+</tr>
+<tr>
+<td><h3>KNOW US BETTER</h3></td>
+<td>Why HomeShop18<br>
+Life At HomeShop18<br>
+Careers<br>
+Connect<br>
+Governance<br>
+Office Locations
+</td></tr>
+</table>
+</body>

@@ -1,0 +1,69 @@
+<html>
+<head>
+<title>reg.form</title>
+</head>
+<style>
+div
+ {  text-align:center;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+</style>
+<h1><marquee>FUTURA 18</marquee></h1>
+<body bgcolor="yellow">
+
+<head><title>FUTURA</title>
+<link rel="stylesheet" type="text/css" href="online.css">
+</head>
+<body>
+<h1>DEPARTMENT OF COMPUTER SCIENCE ENGINEERING</h1>
+<p1>Todays Talent is Tomorrows Sucess!!...</p1>
+<marquee direction="left" scrollamount="20" behavior="slide">
+<div class="h"><a href="home.html">HOME</a> |
+<a href="MY ACCOUNT.html">MY ACCOUNT</a> |
+<a href="registration.html">REGISTRATION</a> |
+<a href="logout.html">LOGOUT</a> |
+<a href="contact.html">CONTACT</a> 
+</marquee></div>
+<img src="C:\Users\Thangam\Desktop\host\host\nine.png"
+<table>
+<tr>
+<td><h3>HELP</h3><br>FAQs<br>Contact us<br>
+Contact us
+<tr>
+<td><h3>Terms and Conditions</h3></t>
+ <p>candidates must register the form</p>
+Terms Of Use<br>
+Promotions - T&C
+</tr>
+<tr>
+<td><h3>KNOW US BETTER</h3></td>
+<td>online registration only<br>
+Careers<br>
+Connect<br>
+Governance<br>
+collage  Locations
+</td></tr>
+</table>
+<br></br>
+<h1> REGISTRATION FORM</h1>
+FIRST NAME: <input type="text" value="">
+<br><br>
+LAST NAME : <input type="text" value="">
+<br><br>
+AGE       : <input type="number" value="">
+<br><br>
+COLLEGE NAME:<input type="text" value="">
+<br><br>
+e-MAIL:<input type="text" value="">
+<br><br>
+PHONE:<input type="number" value="">
+<br><br>
+<button>
+</div>
+</p>
+</html>
+
+
